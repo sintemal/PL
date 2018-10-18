@@ -17,3 +17,5 @@ Maybe:
 -direct OpenGL implementation
 -basic machine learning algorithms
 -native GPU processing using GLSL
+
+hackepeter
